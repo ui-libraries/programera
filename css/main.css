@@ -1,0 +1,80 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.navbar-brand {
+	font-family: 'Timmana', sans-serif;
+	font-size: 46px;
+	color: white;
+	padding-top: 25px;
+}
+
+.title {
+	margin-left: 10px;
+}
+
+.content {
+	margin-top: 75px;
+}
+
+.chart .legend {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: start;
+  font-size: 12px;
+}
+
+.chart text {
+  fill: white;
+  font: 10px sans-serif;
+  text-anchor: end;
+}
+
+.chart .label {
+  fill: black;
+  font: 14px sans-serif;
+  text-anchor: end;
+}
+
+.bar:hover {
+  fill: brown;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+#year-title {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#person {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#person p {
+  font-size: 16px;
+  font-weight: lighter;  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
